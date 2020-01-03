@@ -20,3 +20,6 @@ I'm a Senior Cloud Solution Architect focused on Microsoft Azure, Azure App Dev,
 - Programming in HTML5 with JavaScript and CSS3 Specialist (2014)
 - Server Virtualization with Windows Server Hyper-V and System Center Specialist (March 2014)
 - CompTIA Security+ (December 2010)
+
+### Recent Books I Recommend
+[Gist Recent Books](https://gist.github.com/timwferro/ae7b27f1a0cd3cec563c5797b7c04ef1)
