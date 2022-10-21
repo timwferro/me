@@ -9,6 +9,7 @@ I'm a Senior Cloud Solution Architect focused on Microsoft Azure, Azure App Dev,
 ### Education, Certifications, and Awards
 
 - B.S. Information Sciences and Technology, The Pennsylvania State University (2004)
+- GitHub Actions Certified (2022)
 - Microsoft Certified: Azure DevOps Engineer Expert (2019 - 2023)
 - Microsoft Certified: Azure Developer Associate (2019 - 2023)
 - Microsoft MVP: Azure (2018)
