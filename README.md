@@ -1,7 +1,7 @@
 # Tim Ferro
-### Senior Cloud Solution Architect at Microsoft for Azure
+### Senior Technical Specialist at Microsoft for Azure App Innovation
 
-I'm a Senior Cloud Solution Architect focused on Microsoft Azure, Azure App Dev, and Azure DevOps. I've been a technology professional for over 17 years and a developer all my life. I'm passionate about the tech community and love helping with and attending events. I was a 4-time Microsoft MVP (Visual Studio and Azure) before joining Microsoft. Most recently I am a Microsoft Certified: Azure Developer Associate and a Microsoft Certified: Azure DevOps Engineer Expert. Please reach out via LinkedIn for email, phone, and resume. Thank you.
+I'm a Senior Technical Specialist focused on Microsoft Azure, Cloud Solution Architecture, Azure App Dev, GitHub, and Azure DevOps. I've been a technology professional for over 19 years and a developer all my life. I'm passionate about the tech community and love helping with and attending events. I was a 4-time Microsoft MVP (Visual Studio and Azure) before joining Microsoft. Most recently I am GitHub Actions Certified, a Microsoft Certified: Azure Developer Associate and a Microsoft Certified: Azure DevOps Engineer Expert. Please reach out via LinkedIn for email, phone, and resume. Thank you.
 
 - [https://www.linkedin.com/in/timferro/](https://www.linkedin.com/in/timferro/)
 - [https://twitter.com/timwferro](https://twitter.com/timwferro)
@@ -10,8 +10,8 @@ I'm a Senior Cloud Solution Architect focused on Microsoft Azure, Azure App Dev,
 
 - B.S. Information Sciences and Technology, The Pennsylvania State University (2004)
 - GitHub Actions Certified (2022)
-- Microsoft Certified: Azure DevOps Engineer Expert (2019 - 2023)
-- Microsoft Certified: Azure Developer Associate (2019 - 2023)
+- Microsoft Certified: Azure DevOps Engineer Expert (2019 - 2024)
+- Microsoft Certified: Azure Developer Associate (2019 - 2024)
 - Microsoft MVP: Azure (2018)
 - Microsoft MVP: Visual Studio and Development Technologies (2015 – 2018)
 - Microsoft Certified Professional
