@@ -1,7 +1,7 @@
 # Tim Ferro
-### Senior Technical Specialist at Microsoft for Azure App Innovation
+### Senior Cloud & AI Solution Engineer at Microsoft
 
-I'm a Senior Technology Specialist focused on Microsoft Azure, AI, GitHub, and DevSecOps, currently enabling enterprise clients to succeed in their journey to the cloud through architecture design sessions, education, and developing proof-of-concepts. I've been a technology professional for over 21 years and I'm passionate about the tech community and enjoy helping with and attending events. I was a 4-time Microsoft MVP (Visual Studio and Azure) before joining Microsoft. I am a Microsoft Certified: Azure Developer Associate and a Microsoft Certified: Azure DevOps Engineer Expert. Please reach out via LinkedIn for email, phone, and resume. Thank you.
+I'm a Senior Cloud & AI Solution Engineer at Microsoft focused on Microsoft Azure, AI, GitHub, and DevSecOps, currently enabling enterprise clients to succeed in their journey to the cloud through architecture design sessions, education, and developing proof-of-concepts. I've been a technology professional for over 21 years and I'm passionate about the tech community and enjoy helping with and attending events. I was a 4-time Microsoft MVP (Visual Studio and Azure) before joining Microsoft. I am a Microsoft Certified: Azure Developer Associate and a Microsoft Certified: Azure DevOps Engineer Expert. Please reach out via LinkedIn for email, phone, and resume. Thank you.
 
 - [https://www.linkedin.com/in/timferro/](https://www.linkedin.com/in/timferro/)
 
